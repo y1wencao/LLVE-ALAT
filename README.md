@@ -1,2 +1,2 @@
 # LLVE-ALAT
-ExpressWay
+**Official release** for the ExpressWay dataset.
