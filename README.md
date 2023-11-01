@@ -2,7 +2,7 @@
 **Official release** for the ExpressWay dataset.
 ## Dataset
 **ExpressWay** dataset for low-light video enhancement. You can download our dataset from [GoogleDrive](https://drive.google.com/file/d/1hGP0zDyont6veKMYr2TSLBYwwcBRoDwm/view?usp=sharing).   
-Notes: The current dataset is pre-release version.
+Notes: The dataset now is pre-release version.
 
 **Copyright**   
 The ExpressWay dataset is available for the academic purpose only. Any researcher who uses the ExpressWay dataset should obey the licence as below:   
