@@ -1,8 +1,7 @@
 # LLVE-ALAT
 **Official release** for the ExpressWay dataset.
 ## Dataset
-**ExpressWay** dataset for low-light video enhancement.   
-You can download our dataset from [GoogleDrive](https://drive.google.com/file/d/1hGP0zDyont6veKMYr2TSLBYwwcBRoDwm/view?usp=sharing).   
+**ExpressWay** dataset for low-light video enhancement. You can download our dataset from [GoogleDrive](https://drive.google.com/file/d/1hGP0zDyont6veKMYr2TSLBYwwcBRoDwm/view?usp=sharing).   
 Notes: The current dataset is pre-release version.
 
 **Copyright**   
